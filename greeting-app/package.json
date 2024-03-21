@@ -1,0 +1,19 @@
+{
+  "name": "greeting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^5.0.0-beta.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
